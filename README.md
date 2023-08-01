@@ -22,7 +22,13 @@
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap,ps,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,bootstrap,ps,wordpress" />
   </a>
 </p>
   

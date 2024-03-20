@@ -3,9 +3,6 @@
 # Olá, me chamo Felipe ! 
 ## Boas Vindas ao meu perfil no GitHub 😺👋
 
-<div align="center">
-<img width="100%" height = "250px" src="https://i.imgur.com/4XTDXO5.gif" alt="cover"/>
-</div>
 
 - 🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Anhanguera 
 

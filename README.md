@@ -4,7 +4,9 @@
 ## Boas Vindas ao meu perfil no GitHub 😺👋
 
 
-- 🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Anhanguera 
+- 🎓 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Anhanguera,
+Técnico de Informatica para Internet no Senac,
+Design e Produçao para webgames no Senac. 
 
 -  💾 Meu foco e paixão estão em Desenvolvimento Full-stack,  Mobile e Jogos
 
@@ -13,8 +15,10 @@
   ### Minhas Redes:
 
   <div>
+   <p>
     <a href = "https://www.linkedin.com/in/felipe-barbosa-brito/"  target="_blank" ><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href ="https://www.instagram.com/devfelipebarbosa/"  target="_blank" ><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
+    </p>
   </div>
 
   
@@ -27,14 +31,18 @@
   
   <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,c" />
   </a>
 </p>
 
  <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,bootstrap,wordpress,mysql " />
+    <img src="https://skillicons.dev/icons?i=php,bootstrap,wordpress,mysql,next,styledcomponents " />
   </a>
+</p>
+<p>
+ - Responsive Design <br>
+ - React e React-Native
 </p>
   
 
@@ -45,6 +53,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,vscode,figma,photoshop,discord" />
   </a>
+  </p>
+  <p> 
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,npm,nodejs,androidstudio,netlify" />
+  </a>
+  </p>
+ 
 
 
 <div >
